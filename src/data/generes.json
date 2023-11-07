@@ -1,0 +1,58 @@
+{
+    "generes":
+    [
+      {
+        "id": "1",
+        "title": "Hvite Gutter",
+        "genere": "For deg",
+        "shortDesc": "Tiden begynner å renne ut for guttas festtilværelse.",
+        "showLogo": "https://eu1-prod-images.disco-api.com/2022/08/23/2d1ba262-4a8d-4c0a-b667-88de36336039.png?bf=0&f=png&p=true&q=60&w=400",
+        "background": "https://eu1-prod-images.disco-api.com/2022/08/23/6b1a2c0c-d627-49ea-8339-fdfc9f34bf82.jpeg?bf=0&f=jpg&p=true&q=70&w=2000"
+      },
+      {
+        "id": "2",
+        "title": "Erlend og Steinar hjelper deg",
+        "genere": "Serier",
+        "shortDesc": "Gjennom ukonvensjonelle metoder hjelper Erlend og Steinar forulempede nordmenn.",
+        "showLogo": "https://eu1-prod-images.disco-api.com/2022/12/13/e3fe9fa6-1bea-4d5d-b7cc-40457e48b25d.png?bf=0&f=png&p=true&q=60&w=450",
+        "background": "https://preview.redd.it/cute-anteaters-v0-kvt9rbx9r15a1.png?auto=webp&s=f38fcd3eb9864a9bfd92f58c5958ae4ba03331bc"
+      },
+      {
+        "id": "3",
+        "title": "Gift ved første blikk",
+        "genere": "Reality",
+        "shortDesc": "Tolv personer står klare for å gi sitt «ja» til en vilt fremmed.",
+        "showLogo": "https://eu1-prod-images.disco-api.com/2023/02/09/636456c7-91e1-4988-8dae-b8123ede8d65.png?bf=0&f=png&p=true&q=60&w=400",
+        "background": "https://www.sheknows.com/wp-content/uploads/2018/12/qor1m19e9mrifzdx2mgv.jpeg"
+      },
+      {
+        "id": "4",
+        "title": "Alle mot alle",
+        "genere": "Underholdning",
+        "shortDesc": "Kjente nordmenn møtes til en beinhard og underholdende hjernekamp.",
+        "showLogo": "https://eu1-prod-images.disco-api.com/2023/02/21/84670044-1a83-47b3-9401-58532e015329.png?bf=0&f=png&p=true&q=60&w=400"
+      },
+      {
+        "id": "5",
+        "title": "90 days fiance",
+        "genere": "Relasjoner",
+        "shortDesc": "Parene har 90 dager på seg til å gifte seg før forlovelsesvisumet går ut.",
+        "showLogo": "https://eu1-prod-images.disco-api.com/2022/05/02/fd7d3ec5-3acc-41cd-b87b-663cfcbeece4.png?bf=0&f=png&p=true&q=60&w=400"
+      },
+      {
+        "id": "6",
+        "title": "90 days fiance",
+        "genere": "Krim",
+        "shortDesc": "Disse historiene avslører fallgruvene av berømmelse for de som vises på sidene til Playboy.",
+        "showLogo": "https://eu1-prod-images.disco-api.com/2023/01/31/20848569-2a30-4c90-b4c7-47f369be0210.png?bf=0&f=png&p=true&q=60&w=400"
+      },
+      {
+        "id": "",
+        "title": "",
+        "genere": "",
+        "shortDesc": "",
+        "showLogo": "",
+        "background": ""
+      }
+    ]
+  }
